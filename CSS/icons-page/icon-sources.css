@@ -1,0 +1,11 @@
+@import url(../general-styling/header.css);
+@import url(../general-styling/footer.css);
+
+.container {
+  width: 90%;
+  background-color: white;
+}
+
+  p {
+    color: #666;
+  }
